@@ -1,0 +1,20 @@
+.mw-576 {
+  max-width: 576px;
+}
+
+.btn-close {
+  top: 5px;
+  right: 5px;
+}
+
+.bd-callout {
+  border-left-width: 0.25rem;
+}
+
+.bd-callout-warning {
+  border-left-color: #f9b115;
+}
+
+.bd-callout-success {
+  border-left-color: #2eb85c;
+}

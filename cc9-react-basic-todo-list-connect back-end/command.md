@@ -1,0 +1,3 @@
+- `npm i react-router-dom`
+- `npm i jwt-decode`
+- `npm i axios`
