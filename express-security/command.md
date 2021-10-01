@@ -5,3 +5,6 @@
 - `npm i jsonwebtoken`
 - `npm i cors` การร้องขอการแชร์ข้อมูลระหว่างdomain
 - `npm i dotenv` library
+- `npm i passport passport-jwt`
+- `npm i multer` ใช้upload file ที่เป็น multipart/form-data หรือก็คือ ไฟล์ วิดีโอ รูปภาพ
+- `npm install cloudinary`
